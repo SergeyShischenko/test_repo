@@ -2,4 +2,4 @@
 
 
 echo phpinfo();
-echo "Hello is Master";
+echo "Hello is Master - Изменил в Новой ветке опять";
