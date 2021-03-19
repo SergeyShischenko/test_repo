@@ -2,4 +2,4 @@
 
 
 echo phpinfo();
-echo "Hello Dev";
+echo "Hello is Master";
